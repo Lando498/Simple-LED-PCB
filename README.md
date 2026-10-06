@@ -6,7 +6,7 @@ My first project in Ki-cad
 
   
 # PCB
-<img width="707" height="715" alt="image" src="https://github.com/user-attachments/assets/097903ad-9e6e-4399-a0e1-f7200b0500bc" />
+<img width="661" height="610" alt="image" src="https://github.com/user-attachments/assets/7af1dc3b-90d8-4fd1-af87-bc1dbf340641" />  
 
   
 # BOM
